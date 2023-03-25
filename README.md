@@ -7,15 +7,26 @@ The objective is to develop a model that predicts based on diagnostic measuremen
 whether a patient has diabetes.
 
 Contents
+
 • Objective
+
 • Description of Diabetes Dataset
+
 • Importing Libraries
+
 • Loading Data
+
 • Replacing '0' values with NaN in Glucose, BloodPressure, SkinThickness, Insulin and
 BMI colums
+
 • Counting the number of null values
+
 • Imputing missing values using Multiple Imputation by Chained Equations(MICE)
+
 • Splitting the data into train and test set using Twinning technique
+
 • Fitting a model using Linear Discriminant Analysis
+
 • Using the model to predict diabetes using test dataset
+
 • Model evaluation and accuracy
